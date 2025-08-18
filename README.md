@@ -26,6 +26,7 @@ This repository contains my implementation of the **Flappy Bird** assignment fro
 
 ![Gameplay Preview](docs/gameplay.gif)
 
+▶️ [Watch on YouTube](https://youtu.be/pcWGJrJZY4s?si=Tg-HKvmC7nclxmo9)
 
 ---
 
