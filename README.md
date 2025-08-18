@@ -9,7 +9,7 @@
 ## 📋 Project Overview
 
 This repository contains my implementation of the **Flappy Bird** assignment from CS50's Introduction to Game Development.  
-📺 You can also [watch the gameplay on YouTube](https://youtu.be/pcWGJrJZY4s?si=Tg-HKvmC7nclxmo9).
+📺 You can also watch the gameplay on [YouTube](https://youtu.be/pcWGJrJZY4s?si=Tg-HKvmC7nclxmo9).
 
 ---
 
