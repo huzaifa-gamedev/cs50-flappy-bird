@@ -26,7 +26,6 @@ This repository contains my implementation of the **Flappy Bird** assignment fro
 
 ![Gameplay Preview](docs/gameplay.gif)
 
-▶️ [Watch on YouTube](https://youtu.be/pcWGJrJZY4s?si=Tg-HKvmC7nclxmo9)
 
 ---
 
@@ -38,7 +37,7 @@ This repository contains my implementation of the **Flappy Bird** assignment fro
 
    ```bash
    git clone https://github.com/huzaifa-gamedev/cs50-flappy-bird.git
-   cd cs50-flappybird
+   cd cs50-flappy-bird
    ```
 
 3. Run the game:
